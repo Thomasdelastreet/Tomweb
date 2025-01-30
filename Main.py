@@ -4,7 +4,7 @@ import time
 from bs4 import BeautifulSoup
 
 # Configuration du site à scraper
-URL = "https://example.com"  # Remplace par l'URL cible
+URL = "https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal"  # Remplace par l'URL cible
 INTERVALLE = 60  # Temps d'attente entre deux scans (en secondes)
 
 # Initialisation de la base SQLite
