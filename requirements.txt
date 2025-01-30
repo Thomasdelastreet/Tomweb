@@ -1,3 +1,2 @@
 requests
 beautifulsoup4
-sqlite3  # Pas nécessaire car intégré à Python, mais mentionné pour info
